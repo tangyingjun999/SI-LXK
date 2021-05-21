@@ -37,4 +37,4 @@ jobs:
           dst: gitee/shuye72
           static_list: "MyActions"
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
+          dst_token: ${{ secrets.GITEE_TOKEN }} 
